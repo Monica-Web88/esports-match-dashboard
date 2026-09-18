@@ -119,9 +119,4 @@ tests/
   e2e/dashboard.spec.ts       # Playwright tests
 ```
 
-## Next steps
 
-- Swap mock data for a real Riot esports API / match-history feed
-- Add authenticated match selection (pick a live match from a list)
-- Persist selected chart tab and theme preference per viewer
-- Add unit tests for the GraphQL resolvers
